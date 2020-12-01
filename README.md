@@ -1,4 +1,5 @@
 # PhD Thesis Template - Tips & Tricks
+- This template is not mandatory. According to Prof. Dr. Cees Snoek, UvA does not dictate what your thesis should look like, only the title page needs to comply to precise standards.  
 - If you prefer to import from overleaf.com, here is the [public link](https://www.overleaf.com/read/dhjssjhhymmr)
 - Your starting point is `thesis.tex`
 - You can customize the style in `styles.tex`
