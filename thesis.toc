@@ -1,0 +1,85 @@
+\vspace {-\cftbeforepartskip }
+\select@language {english}
+\contentsline {chapter}{\numberline {1}\spacedlowsmallcaps {Introduction}}{9}{chapter.4}
+\vskip 10pt
+\contentsline {section}{\numberline {1.1}Introduction}{9}{section.5}
+\contentsline {section}{\numberline {1.2}Method}{12}{section.8}
+\contentsline {section}{\numberline {1.3}Related Work}{18}{section.12}
+\contentsline {section}{\numberline {1.4}List of Publications}{19}{section.13}
+\contentsline {chapter}{\numberline {2}\spacedlowsmallcaps {Unified Embedding and Metric Learning for Zero-Exemplar Event Detection}}{21}{chapter.14}
+\vskip 10pt
+\contentsline {section}{\numberline {2.1}Introduction}{21}{section.15}
+\contentsline {section}{\numberline {2.2}Related Work}{22}{section.21}
+\contentsline {section}{\numberline {2.3}Method}{25}{section.24}
+\contentsline {subsection}{\numberline {2.3.1}Overview}{25}{subsection.25}
+\contentsline {subsection}{\numberline {2.3.2}Model}{25}{subsection.27}
+\contentsline {section}{\numberline {2.4}Experiments}{27}{section.32}
+\contentsline {subsection}{\numberline {2.4.1}Datasets}{27}{subsection.33}
+\contentsline {subsection}{\numberline {2.4.2}Implementation Details}{28}{subsection.34}
+\contentsline {subsection}{\numberline {2.4.3}Textual Embedding}{28}{subsection.36}
+\contentsline {subsection}{\numberline {2.4.4}Unified Embedding and Metric Learning}{30}{subsection.42}
+\contentsline {subsection}{\numberline {2.4.5}Mitigating Noise in EventNet}{31}{subsection.44}
+\contentsline {subsection}{\numberline {2.4.6}Latent Topics in LSI}{31}{subsection.45}
+\contentsline {section}{\numberline {2.5}Results}{32}{section.47}
+\contentsline {section}{\numberline {2.6}Conclusion}{33}{section.52}
+\contentsline {chapter}{\numberline {3}\spacedlowsmallcaps {Timeception for Complex Action Recognition}}{35}{chapter.53}
+\vskip 10pt
+\contentsline {section}{\numberline {3.1}Introduction}{35}{section.54}
+\contentsline {section}{\numberline {3.2}Related Work}{36}{section.57}
+\contentsline {section}{\numberline {3.3}Method}{37}{section.58}
+\contentsline {subsection}{\numberline {3.3.1}Motivation}{37}{subsection.59}
+\contentsline {subsection}{\numberline {3.3.2}Timeception Layer}{38}{subsection.60}
+\contentsline {subsection}{\numberline {3.3.3}The Final Model}{41}{subsection.63}
+\contentsline {section}{\numberline {3.4}Experiments}{41}{section.64}
+\contentsline {subsection}{\numberline {3.4.1}Datasets}{41}{subsection.65}
+\contentsline {subsection}{\numberline {3.4.2}Tolerating Temporal Extents}{42}{subsection.66}
+\contentsline {subsection}{\numberline {3.4.3}Long-range Temporal Dependencies}{44}{subsection.71}
+\contentsline {subsection}{\numberline {3.4.4}Effectiveness of Timeception}{45}{subsection.73}
+\contentsline {subsection}{\numberline {3.4.5}Experiments on Benchmarks}{45}{subsection.75}
+\contentsline {section}{\numberline {3.5}Conclusion}{48}{section.81}
+\contentsline {chapter}{\numberline {4}\spacedlowsmallcaps {VideoGraph: Recognizing Minutes-Long Human Activities in Videos}}{51}{chapter.82}
+\vskip 10pt
+\contentsline {section}{\numberline {4.1}Introduction}{51}{section.83}
+\contentsline {section}{\numberline {4.2}Related Work}{51}{section.84}
+\contentsline {section}{\numberline {4.3}Method}{51}{section.85}
+\contentsline {section}{\numberline {4.4}Experiments}{51}{section.86}
+\contentsline {section}{\numberline {4.5}Conclusion}{51}{section.87}
+\contentsline {chapter}{\numberline {5}\spacedlowsmallcaps {Permutation Invariant Convolution for Recognizing Long-range Activities}}{53}{chapter.88}
+\vskip 10pt
+\contentsline {section}{\numberline {5.1}Introduction}{53}{section.89}
+\contentsline {section}{\numberline {5.2}Related Work}{54}{section.92}
+\contentsline {section}{\numberline {5.3}Method}{56}{section.94}
+\contentsline {subsection}{\numberline {5.3.1}Motivation}{56}{subsection.95}
+\contentsline {subsection}{\numberline {5.3.2}PIC: Permutation Invariant Convolution}{57}{subsection.98}
+\contentsline {subsection}{\numberline {5.3.3}Final Model}{59}{subsection.104}
+\contentsline {section}{\numberline {5.4}Experiments}{59}{section.105}
+\contentsline {subsection}{\numberline {5.4.1}Datasets}{60}{subsection.106}
+\contentsline {subsection}{\numberline {5.4.2}Dissection of PIC}{60}{subsection.107}
+\contentsline {subsection}{\numberline {5.4.3}Analysis of PIC}{63}{subsection.114}
+\contentsline {subsection}{\numberline {5.4.4}Quantitative Analysis}{64}{subsection.117}
+\contentsline {subsection}{\numberline {5.4.5}Qualitative Analysis}{65}{subsection.121}
+\contentsline {section}{\numberline {5.5}Conclusion}{66}{section.124}
+\contentsline {chapter}{\numberline {6}\spacedlowsmallcaps {Timegate: Conditional Gating of Segments in Long-range Activities}}{69}{chapter.125}
+\vskip 10pt
+\contentsline {section}{\numberline {6.1}Introduction}{69}{section.126}
+\contentsline {section}{\numberline {6.2}Related Work}{70}{section.129}
+\contentsline {section}{\numberline {6.3}Method}{71}{section.130}
+\contentsline {subsection}{\numberline {6.3.1}TimeGate}{71}{subsection.132}
+\contentsline {subsection}{\numberline {6.3.2}TimeGate Implementation}{75}{subsection.135}
+\contentsline {section}{\numberline {6.4}Experiments}{75}{section.136}
+\contentsline {subsection}{\numberline {6.4.1}Datasets}{75}{subsection.137}
+\contentsline {subsection}{\numberline {6.4.2}Stand-alone Timestep Selector}{76}{subsection.139}
+\contentsline {subsection}{\numberline {6.4.3}End-to-End TimeGate}{77}{subsection.141}
+\contentsline {subsection}{\numberline {6.4.4}Context-Conditional Gating}{78}{subsection.144}
+\contentsline {subsection}{\numberline {6.4.5}Computation-Performance Tradeoff}{79}{subsection.148}
+\contentsline {subsection}{\numberline {6.4.6}Experiments on Charades}{81}{subsection.151}
+\contentsline {subsection}{\numberline {6.4.7}Experiments on MultiThumos}{81}{subsection.153}
+\contentsline {subsection}{\numberline {6.4.8}Qualitative Results}{81}{subsection.155}
+\contentsline {section}{\numberline {6.5}Conclusion}{83}{section.158}
+\contentsline {chapter}{\numberline {7}\spacedlowsmallcaps {Conclusions}}{85}{chapter.159}
+\vskip 10pt
+\contentsline {section}{\numberline {7.1}Summary}{85}{section.160}
+\contentsline {section}{\numberline {7.2}Discussion}{88}{section.161}
+\contentsline {chapter}{Samenvatting}{91}{chapter*.162}
+\contentsline {chapter}{Acknowledgments}{95}{chapter*.163}
+\contentsline {chapter}{Bibliography}{104}{chapter*.165}

@@ -1,0 +1,42 @@
+%!TEX root = thesis.tex
+
+% KOMA-Script book
+\documentclass[12pt,a4paper,footinclude=true,headinclude=true]{scrbook}
+
+\input{pacakges}
+\input{style}
+
+\begin{document}
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+% heading pages
+\input{chapter_0/main}
+
+% table of contents
+\tableofcontents
+\markboth{Contents}{Contents}
+\clearpage{\pagestyle{empty}\cleardoublepage}
+\cleardoublepage
+
+% chapters of the thesis
+\input{chapter_1/main}
+\input{chapter_2/main}
+\input{chapter_3/main}
+\input{chapter_8/main}
+
+%\chapter*{Bibliography\markboth{Bibliography}{Bibliography}}
+%\def\rightmark{Bibliography}
+
+% \bibliography with small font
+\cleardoublepage
+\small
+% \bibliographystyle{IEEEtrans}
+\bibliographystyle{abbrv}
+\footnotesize
+\bibliography{thesis}
+\addcontentsline{toc}{chapter}{Bibliography}
+\small
+
+
+\end{document}

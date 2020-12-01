@@ -1,0 +1,128 @@
+%!TEX root = thesis.tex
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                    Syling of Table of Content
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \renewcommand{\cftchapfont}{\bfseries \sffamily}
+% \renewcommand{\cftchappagefont}{\bfseries \sffamily}
+% \renewcommand{\cftsecfont}{\sffamily}
+% \renewcommand{\cftsecpagefont}{\sffamily}
+% \renewcommand{\cftsubsecfont}{\sffamily}
+% \renewcommand{\cftsubsecpagefont}{\sffamily}
+
+% font of items in the table of content (toc)
+\renewcommand{\cftchapleader}{\sffamily\cftdotfill{\cftchapdotsep}}
+\renewcommand{\cftsecleader}{\sffamily\cftdotfill{\cftsecdotsep}}
+\renewcommand{\cftsubsecleader}{\sffamily\cftdotfill{\cftsubsecdotsep}}
+
+% setting spaces after sections
+\preto\section{
+\ifnum\value{section}=0\addtocontents{toc}{\vskip10pt}\fi
+}
+
+% doesn't set spaces of items in toc, it's handled by the previous command
+% \renewcommand{\cftchapafterpnum}{\vspace{10pt}}
+% \setlength{\cftbeforesecskip}{10pt}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                    Package Setup
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\hypersetup{linktocpage=true,
+			bookmarksnumbered=true,
+			pageanchor=true,
+			hypertexnames=false,
+			naturalnames=true,
+			plainpages=false,
+			hidelinks}
+
+\captionsetup[figure]{labelfont=it,textfont={it},justification=justified}
+\captionsetup[table]{labelfont=it,textfont={it},justification=justified}
+\cftsetrmarg{0.0cm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                    Custom Style
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% graphics path
+\graphicspath{{./figures/}}
+
+% every instance of \includegraphics
+\DeclareGraphicsExtensions{.jpeg,.jpg,.png,.pdf}
+
+% correct bad hyphenation here
+\hyphenation{}
+
+\newcommand{\thesistitle}{Your Fancy PhD Thesis Title}
+\newcommand{\thesistitleoneline}{Your Fancy PhD\\Thesis Title}
+\newcommand{\thesisauthor}{Full Name}
+\newcommand{\thesisauthorfull}{Full Name}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \def\etal{\emph{et al}\onedot}
+% \def\ie{\emph{i.e.}\xspace}
+% \newcommand{\norm}[1]{\|#1\|}
+
+\newcommand{\eg}{\emph{e.g.}\xspace}
+\newcommand{\etc}{\emph{etc.}\xspace}
+\newcommand{\etal}{\emph{et al.}\xspace}
+\newcommand{\ie}{\emph{i.e.}\xspace}
+\newcommand{\todo}{\textcolor{red}{[TODO] }}
+\newcommand{\norm}[1]{\left\lVert#1\right\rVert}
+\newcommand{\hinge}[1]{\left[#1\right]_{+}}
+\newcommand{\snorm}[1]{\norm{#1}^2}
+\newcommand{\mb}[1]{\bm #1}
+\newcommand{\vbar}{\,|\,}
+\newcommand{\Ree}{\mathbb{R}}
+\newcommand{\eqr}[1]{Eq. \eqref{#1}}
+\newcommand{\figurecorrection}{\vspace{-5mm}}
+\newcommand{\bd}{\mathbf{d}}
+\newcommand{\ba}{\mathbf{a}}
+\newcommand{\partitle}[1]{\noindent\textbf{#1}}
+\newcommand{\ptspace}{\vspace*{5pt}}
+
+\DeclareMathOperator*{\argmax}{arg\; max}
+\DeclareMathOperator*{\argmin}{arg\; min}
+
+\DeclareSymbolFont{mathb}{U}{mathb}{m}{n}
+\DeclareMathSymbol{\llcurly}{\mathrel}{mathb}{"CE}
+\DeclareMathSymbol{\ggcurly}{\mathrel}{mathb}{"CF}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{definition}{Definition}
+\newtheorem{proposition}[theorem]{Proposition}
+
+\newcommand{\cgm}[1]{\textcolor{blue}{[\textbf{CS}: #1]}}
+\newcommand{\str}[1]{\textcolor{green}{[\textbf{STR}: #1]}}
+\newcommand{\li}[1]{\textcolor{red}{[\textbf{LI}: #1]}}
+\newcommand{\mj}[1]{\textcolor{magenta}{[\textbf{MJ}: #1]}}
+\newcommand{\ptgray}[1]{\indent\textcolor{gray}{#1}\\\indent}
+
+\newcommand{\cmark}{\ding{51}}
+\newcommand{\xmark}{\ding{55}}
+
+\def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+\newcommand{\CheckBoxCustom}{\makebox[0pt][l]{$\square$}\raisebox{.15ex}{\hspace{0.1em}$\boldsymbol{\checkmark}$}}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%         Some Styles for Chapter 4: PIC Paper
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                    Pdf Metadata
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% get all meta data using this linux command: pdfinfo thesis.pdf
+\hypersetup{bookmarks={true}}
+\hypersetup{pdfstartview={FitB}}
+\hypersetup{pdfpagemode={UseOutlines}}
+\hypersetup{pdftitle={\thesistitleoneline}}
+\hypersetup{pdfsubject={Computer Vision, Machine Learning}}
+\hypersetup{pdfauthor={\thesisauthor~email@live.com}}
+\hypersetup{pdfcreator={PDFLaTeX}}
+\hypersetup{pdfproducer={TeXstudio 2.12.22}}
+\hypersetup{pdfcreationdate={20200321145837}}
+\hypersetup{pdfmoddate={20200321145837}}
+\hypersetup{pdfkeywords={Deep Learning, Computer Vision, Machine Learning}}

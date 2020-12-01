@@ -1,0 +1,962 @@
+\begin{thebibliography}{100}
+
+\bibitem{wikihow}
+Wikihow, 2016.
+\newblock \url{http://wikihow.com}.
+
+\bibitem{wikipedia}
+Wikipedia, 2016.
+\newblock \url{http://wikipedia.com}.
+
+\bibitem{charades2017algorithms}
+Charades algorithms.
+\newblock \url{github.com/gsig/charades-algorithms}, 2017.
+
+\bibitem{timeceptioncode}
+Implementation of timeception.
+\newblock \url{github.com/noureldien/timeception}, 2017.
+
+\bibitem{tensorflow2015-whitepaper}
+M.~Abadi et~al.
+\newblock Tensorflow.
+\newblock \url{tensorflow.org}, 2015.
+
+\bibitem{abu2016youtube}
+S.~Abu-El-Haija, N.~Kothari, J.~Lee, P.~Natsev, G.~Toderici, B.~Varadarajan,
+  and S.~Vijayanarasimhan.
+\newblock Youtube-8m: A large-scale video classification benchmark.
+\newblock In {\em arXiv}, 2016.
+
+\bibitem{agharwal2016tag}
+A.~Agharwal, R.~Kovvuri, R.~Nevatia, and C.~G. Snoek.
+\newblock Tag-based video retrieval by embedding semantic content in a
+  continuous word space.
+\newblock In {\em IEEE WACV}, 2016.
+
+\bibitem{arandjelovic2013all}
+R.~Arandjelovic and A.~Zisserman.
+\newblock All about vlad.
+\newblock In {\em IEEE CVPR}, 2013.
+
+\bibitem{bay2006surf}
+H.~Bay, T.~Tuytelaars, and L.~Van~Gool.
+\newblock Surf: Speeded up robust features.
+\newblock In {\em ECCV}, 2006.
+
+\bibitem{bejnordi2019batch}
+B.~E. Bejnordi, T.~Blankevoort, and M.~Welling.
+\newblock Batch-shaping for learning conditional channel gated networks.
+\newblock In {\em ICLR}, 2020.
+
+\bibitem{bhardwaj2019efficient}
+S.~Bhardwaj, M.~Srinivasan, and M.~M. Khapra.
+\newblock Efficient video classification using fewer frames.
+\newblock In {\em CVPR}, 2019.
+
+\bibitem{bilen2017action}
+H.~Bilen, B.~Fernando, E.~Gavves, and A.~Vedaldi.
+\newblock Action recognition with dynamic image networks.
+\newblock In {\em TPAMI}, 2017.
+
+\bibitem{bilen2016dynamic}
+H.~Bilen, B.~Fernando, E.~Gavves, A.~Vedaldi, and S.~Gould.
+\newblock Dynamic image networks for action recognition.
+\newblock In {\em CVPR}, 2016.
+
+\bibitem{blei2003latent}
+D.~M. Blei, A.~Y. Ng, and M.~I. Jordan.
+\newblock Latent dirichlet allocation.
+\newblock In {\em JMLR}, 2003.
+
+\bibitem{carreira2017quo}
+J.~Carreira and A.~Zisserman.
+\newblock Quo vadis, action recognition? a new model and the kinetics dataset.
+\newblock In {\em CVPR}, 2017.
+
+\bibitem{chang2015semantic}
+X.~Chang, Y.~Yang, A.~G. Hauptmann, E.~P. Xing, and Y.-L. Yu.
+\newblock Semantic concept discovery for large-scale zero-shot event detection.
+\newblock In {\em IJCAI}, 2015.
+
+\bibitem{chang2016dynamic}
+X.~Chang, Y.~Yang, G.~Long, C.~Zhang, and A.~G. Hauptmann.
+\newblock Dynamic concept composition for zero-example event detection.
+\newblock In {\em arXiv}, 2016.
+
+\bibitem{changthey}
+X.~Chang, Y.-L. Yu, Y.~Yang, and E.~P. Xing.
+\newblock They are not equally reliable: Semantic event search using
+  differentiated concept classifiers.
+\newblock In {\em IEEE CVPR}, 2016.
+
+\bibitem{chen2019you}
+Z.~Chen, Y.~Li, S.~Bengio, and S.~Si.
+\newblock You look twice: Gaternet for dynamic filter selection in cnns.
+\newblock In {\em CVPR}, 2019.
+
+\bibitem{chollet2016xception}
+F.~Chollet.
+\newblock Xception: Deep learning with depthwise separable convolutions.
+\newblock In {\em CVPR}, 2017.
+
+\bibitem{chollet2015keras}
+F.~Chollet et~al.
+\newblock Keras.
+\newblock \url{keras.io}, 2015.
+
+\bibitem{chopra2005learning}
+S.~Chopra, R.~Hadsell, and Y.~LeCun.
+\newblock Learning a similarity metric discriminatively, with application to
+  face verification.
+\newblock In {\em IEEE CVPR}, 2005.
+
+\bibitem{cosmin2017spatio}
+I.~Cosmin~Duta, B.~Ionescu, K.~Aizawa, and N.~Sebe.
+\newblock Spatio-temporal vector of locally max pooled features for action
+  recognition in videos.
+\newblock In {\em PCVPR}, 2017.
+
+\bibitem{dalal2005histograms}
+N.~Dalal and B.~Triggs.
+\newblock Histograms of oriented gradients for human detection.
+\newblock In {\em CVPR}, 2005.
+
+\bibitem{damen2018scaling}
+D.~Damen, H.~Doughty, G.~Maria~Farinella, S.~Fidler, A.~Furnari, E.~Kazakos,
+  D.~Moltisanti, J.~Munro, T.~Perrett, W.~Price, et~al.
+\newblock Scaling egocentric vision: The epic-kitchens dataset.
+\newblock In {\em ECCV}, 2018.
+
+\bibitem{deerwester1990indexing}
+S.~Deerwester, S.~T. Dumais, G.~W. Furnas, T.~K. Landauer, and R.~Harshman.
+\newblock Indexing by latent semantic analysis.
+\newblock In {\em JACS}, 1990.
+
+\bibitem{donahue2015long}
+J.~Donahue, L.~Anne~Hendricks, S.~Guadarrama, M.~Rohrbach, S.~Venugopalan,
+  K.~Saenko, and T.~Darrell.
+\newblock Long-term recurrent convolutional networks for visual recognition and
+  description.
+\newblock In {\em CVPR}, 2015.
+
+\bibitem{du2018interaction}
+Y.~Du, C.~Yuan, B.~Li, L.~Zhao, Y.~Li, and W.~Hu.
+\newblock Interaction-aware spatio-temporal pyramid attention networks for
+  action classification.
+\newblock In {\em ECCV}, 2018.
+
+\bibitem{duta2017spatio}
+I.~C. Duta, B.~Ionescu, K.~Aizawa, and N.~Sebe.
+\newblock Spatio-temporal vlad encoding for human action recognition in videos.
+\newblock In {\em ICMM}, 2017.
+
+\bibitem{elhoseiny2015zero}
+M.~Elhoseiny, J.~Liu, H.~Cheng, H.~Sawhney, and A.~Elgammal.
+\newblock Zero-shot event detection by multimodal distributional semantic
+  embedding of videos.
+\newblock In {\em AAAI}, 2016.
+
+\bibitem{feichtenhofer2019slowfast}
+C.~Feichtenhofer, H.~Fan, J.~Malik, and K.~He.
+\newblock Slowfast networks for video recognition.
+\newblock In {\em ICCV}, 2019.
+
+\bibitem{feichtenhofer2018have}
+C.~Feichtenhofer, A.~Pinz, R.~P. Wildes, and A.~Zisserman.
+\newblock What have we learned from deep representations for action
+  recognition?
+\newblock In {\em CVPR}, 2018.
+
+\bibitem{feichtenhofer2016convolutional}
+C.~Feichtenhofer, A.~Pinz, and A.~Zisserman.
+\newblock Convolutional two-stream network fusion for video action recognition.
+\newblock In {\em CVPR}, 2016.
+
+\bibitem{fernandoTPAMIrankpooling}
+B.~Fernando, E.~Gavves, J.~Oramas, A.~Ghodrati, and T.~Tuytelaars.
+\newblock Rank pooling for action recognition.
+\newblock In {\em IEEE TPAMI}, 2016.
+
+\bibitem{fernando2017rank}
+B.~Fernando, E.~Gavves, J.~Oramas, A.~Ghodrati, and T.~Tuytelaars.
+\newblock Rank pooling for action recognition.
+\newblock In {\em TPAMI}, 2017.
+
+\bibitem{finn2017model}
+C.~Finn, P.~Abbeel, and S.~Levine.
+\newblock Model-agnostic meta-learning for fast adaptation of deep networks.
+\newblock In {\em ICML}, 2017.
+
+\bibitem{fleet2006optical}
+D.~Fleet and Y.~Weiss.
+\newblock Optical flow estimation.
+\newblock In {\em Handbook of mathematical models in computer vision}, 2006.
+
+\bibitem{fukushima1975cognitron}
+K.~Fukushima.
+\newblock Cognitron: A self-organizing multilayered neural network.
+\newblock In {\em Biological cybernetics}, 1975.
+
+\bibitem{fukushima1980neocognitron}
+K.~Fukushima.
+\newblock Neocognitron: A self-organizing neural network model for a mechanism
+  of pattern recognition unaffected by shift in position.
+\newblock In {\em Biological cybernetics}, 1980.
+
+\bibitem{gan2016you}
+C.~Gan, T.~Yao, K.~Yang, Y.~Yang, and T.~Mei.
+\newblock You lead, we exceed: Labor-free video concept learning by jointly
+  exploiting web videos and images.
+\newblock In {\em IEEE CVPR}, 2016.
+
+\bibitem{gavves2015activetransferlearning}
+E.~Gavves, T.~E.~J. Mensink, T.~Tommasi, C.~G.~M. Snoek, and T.~Tuytelaars.
+\newblock Active transfer learning with zero-shot priors: Reusing past datasets
+  for future tasks.
+\newblock In {\em IEEE ICCV}, 2015.
+
+\bibitem{gehring2017convolutional}
+J.~Gehring, M.~Auli, D.~Grangier, D.~Yarats, and Y.~N. Dauphin.
+\newblock Convolutional sequence to sequence learning.
+\newblock In {\em ICML}, 2017.
+
+\bibitem{ghodrati2018video}
+A.~Ghodrati, E.~Gavves, and C.~G. Snoek.
+\newblock Video time: Properties, encoders and evaluation.
+\newblock In {\em BMVC}, 2018.
+
+\bibitem{girdhar2019video}
+R.~Girdhar, J.~Carreira, C.~Doersch, and A.~Zisserman.
+\newblock Video action transformer network.
+\newblock In {\em CVPR}, 2019.
+
+\bibitem{girdhar2017attentional}
+R.~Girdhar and D.~Ramanan.
+\newblock Attentional pooling for action recognition.
+\newblock In {\em NIPS}, 2017.
+
+\bibitem{girdhar2017actionvlad}
+R.~Girdhar, D.~Ramanan, A.~Gupta, J.~Sivic, and B.~Russell.
+\newblock Actionvlad: Learning spatio-temporal aggregation for action
+  classification.
+\newblock In {\em CVPR}, 2017.
+
+\bibitem{gu2017ava}
+C.~Gu, C.~Sun, S.~Vijayanarasimhan, C.~Pantofaru, D.~A. Ross, G.~Toderici,
+  Y.~Li, S.~Ricco, R.~Sukthankar, C.~Schmid, et~al.
+\newblock Ava: A video dataset of spatio-temporally localized atomic visual
+  actions.
+\newblock In {\em arXiv}, 2017.
+
+\bibitem{habibian2014composite}
+A.~Habibian, T.~Mensink, and C.~G. Snoek.
+\newblock Composite concept discovery for zero-shot video event detection.
+\newblock In {\em ICMR}, 2014.
+
+\bibitem{habibian2014videostory}
+A.~Habibian, T.~Mensink, and C.~G. Snoek.
+\newblock Videostory: A new multimedia embedding for few-example recognition
+  and translation of events.
+\newblock In {\em ACM MM}, 2014.
+
+\bibitem{habibian2015discovering}
+A.~Habibian, T.~Mensink, and C.~G. Snoek.
+\newblock Discovering semantic vocabularies for cross-media retrieval.
+\newblock In {\em ICMR}, 2015.
+
+\bibitem{habibian2015videostory}
+A.~Habibian, T.~Mensink, and C.~G. Snoek.
+\newblock Videostory embeddings recognize events when examples are scarce.
+\newblock In {\em IEEE TPAMI}, 2016.
+
+\bibitem{habibian2017video2vec}
+A.~Habibian, T.~Mensink, and C.~G. Snoek.
+\newblock Video2vec embeddings recognize events when examples are scarce.
+\newblock In {\em TPAMI}, 2017.
+
+\bibitem{han2015learning}
+S.~Han, J.~Pool, J.~Tran, and W.~Dally.
+\newblock Learning both weights and connections for efficient neural network.
+\newblock In {\em NeurIPS}, 2015.
+
+\bibitem{hara2017can}
+K.~Hara, H.~Kataoka, and Y.~Satoh.
+\newblock Can spatiotemporal 3d cnns retrace the history of 2d cnns and
+  imagenet?
+\newblock In {\em CVPR}, 2018.
+
+\bibitem{hassibi1993optimal}
+B.~Hassibi, D.~G. Stork, and G.~J. Wolff.
+\newblock Optimal brain surgeon and general network pruning.
+\newblock In {\em ICNN}, 1993.
+
+\bibitem{he2016deep}
+K.~He, X.~Zhang, S.~Ren, and J.~Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In {\em CVPR}, 2016.
+
+\bibitem{he2015deep}
+K.~He, X.~Zhang, S.~Ren, and J.~Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In {\em CVPR}, 2016.
+
+\bibitem{heilbron2015activitynet}
+F.~C. Heilbron, V.~Escorcia, B.~Ghanem, and J.~C. Niebles.
+\newblock Activitynet: A large-scale video benchmark for human activity
+  understanding.
+\newblock In {\em CVPR}, 2015.
+
+\bibitem{horn1981determining}
+B.~K. Horn and B.~G. Schunck.
+\newblock Determining optical flow.
+\newblock In {\em TAIU}, 1981.
+
+\bibitem{howard2019searching}
+A.~Howard, M.~Sandler, G.~Chu, L.-C. Chen, B.~Chen, M.~Tan, W.~Wang, Y.~Zhu,
+  R.~Pang, V.~Vasudevan, et~al.
+\newblock Searching for mobilenetv3.
+\newblock In {\em CVPR}, 2019.
+
+\bibitem{howard2017mobilenets}
+A.~G. Howard, M.~Zhu, B.~Chen, D.~Kalenichenko, W.~Wang, T.~Weyand,
+  M.~Andreetto, and H.~Adam.
+\newblock Mobilenets: Efficient convolutional neural networks for mobile vision
+  applications.
+\newblock {\em arXiv}, 2017.
+
+\bibitem{huang2017densely}
+G.~Huang, Z.~Liu, K.~Q. Weinberger, and L.~van~der Maaten.
+\newblock Densely connected convolutional networks.
+\newblock In {\em CVPR}, 2017.
+
+\bibitem{hussein2017unified}
+N.~Hussein, E.~Gavves, and A.~W. Smeulders.
+\newblock Unified embedding and metric learning for zero-exemplar event
+  detection.
+\newblock In {\em CVPR}, 2017.
+
+\bibitem{hussein2019timeception}
+N.~Hussein, E.~Gavves, and A.~W. Smeulders.
+\newblock Timeception for complex action recognition.
+\newblock In {\em CVPR}, 2019.
+
+\bibitem{hussein2019videograph}
+N.~Hussein, E.~Gavves, and A.~W. Smeulders.
+\newblock Videograph: Recognizing minutes-long human activities in videos.
+\newblock {\em ICCV Workhop}, 2019.
+
+\bibitem{hussein2020pic}
+N.~Hussein, E.~Gavves, and A.~W. Smeulders.
+\newblock Permutation invariant convolution for recognizing long-range
+  activities.
+\newblock In {\em arXiv}, 2020.
+
+\bibitem{hussein2020timegate}
+N.~Hussein, M.~Jain, and B.~E. Bejnordi.
+\newblock Timegate: Conditional gating of segments in long-range activities.
+\newblock In {\em arXiv}, 2020.
+
+\bibitem{idrees2017thumos}
+H.~Idrees, A.~R. Zamir, Y.-G. Jiang, A.~Gorban, I.~Laptev, R.~Sukthankar, and
+  M.~Shah.
+\newblock The thumos challenge on action recognition for videos “in the
+  wild”.
+\newblock In {\em CVIU}, 2017.
+
+\bibitem{jain2013better}
+M.~Jain, H.~Jegou, and P.~Bouthemy.
+\newblock Better exploiting motion for better action recognition.
+\newblock In {\em CVPR}, 2013.
+
+\bibitem{jang2016categorical}
+E.~Jang, S.~Gu, and B.~Poole.
+\newblock Categorical reparameterization with gumbel-softmax.
+\newblock In {\em ICLR}, 2017.
+
+\bibitem{ji20123d}
+S.~Ji, W.~Xu, M.~Yang, and K.~Yu.
+\newblock 3d convolutional neural networks for human action recognition.
+\newblock {\em TPAMI}, 2012.
+
+\bibitem{ji20133d}
+S.~Ji, W.~Xu, M.~Yang, and K.~Yu.
+\newblock 3d convolutional neural networks for human action recognition.
+\newblock In {\em TPAMI}, 2013.
+
+\bibitem{jiang2014easy}
+L.~Jiang, D.~Meng, T.~Mitamura, and A.~G. Hauptmann.
+\newblock Easy samples first: Self-paced reranking for zero-example multimedia
+  search.
+\newblock In {\em ACM MM}, 2014.
+
+\bibitem{jiang2014zero}
+L.~Jiang, T.~Mitamura, S.-I. Yu, and A.~G. Hauptmann.
+\newblock Zero-example event search using multimodal pseudo relevance feedback.
+\newblock In {\em ICMR}, 2014.
+
+\bibitem{jiang2015bridging}
+L.~Jiang, S.-I. Yu, D.~Meng, T.~Mitamura, and A.~G. Hauptmann.
+\newblock Bridging the ultimate semantic gap: A semantic search engine for
+  internet videos.
+\newblock In {\em ICMR}, 2015.
+
+\bibitem{jiang2015fast}
+L.~Jiang, S.-I. Yu, D.~Meng, Y.~Yang, T.~Mitamura, and A.~G. Hauptmann.
+\newblock Fast and accurate content-based semantic search in 100m internet
+  videos.
+\newblock In {\em ACM MM}, 2015.
+
+\bibitem{jiangfcvid}
+Y.-G. Jiang, Z.~Wu, J.~Wang, X.~Xue, and S.-F. Chang.
+\newblock Fcvid: Fudan-columbia video dataset.
+\newblock 2015.
+
+\bibitem{jiang2017exploiting}
+Y.-G. Jiang, Z.~Wu, J.~Wang, X.~Xue, and S.-F. Chang.
+\newblock Exploiting feature and class relationships in video categorization
+  with regularized deep neural networks.
+\newblock In {\em IEEE TPAMI}, 2017.
+
+\bibitem{jiang2011consumer}
+Y.-G. Jiang, G.~Ye, S.-F. Chang, D.~Ellis, and A.~C. Loui.
+\newblock Consumer video understanding: A benchmark database and an evaluation
+  of human and machine performance.
+\newblock In {\em ICMR}, 2011.
+
+\bibitem{jing2016discriminative}
+L.~Jing, B.~Liu, J.~Choi, A.~Janin, J.~Bernd, M.~W. Mahoney, and G.~Friedland.
+\newblock A discriminative and compact audio representation for event
+  detection.
+\newblock In {\em ACM MM}, 2016.
+
+\bibitem{karpathy2014large}
+A.~Karpathy, G.~Toderici, S.~Shetty, T.~Leung, R.~Sukthankar, and L.~Fei-Fei.
+\newblock Large-scale video classification with convolutional neural networks.
+\newblock In {\em CVPR}, 2014.
+
+\bibitem{kay2017kinetics}
+W.~Kay, J.~Carreira, K.~Simonyan, B.~Zhang, C.~Hillier, S.~Vijayanarasimhan,
+  F.~Viola, T.~Green, T.~Back, P.~Natsev, et~al.
+\newblock The kinetics human action video dataset.
+\newblock In {\em arXiv}, 2017.
+
+\bibitem{kiros2015skip}
+R.~Kiros, Y.~Zhu, R.~R. Salakhutdinov, R.~Zemel, R.~Urtasun, A.~Torralba, and
+  S.~Fidler.
+\newblock Skip-thought vectors.
+\newblock In {\em NIPS}, 2015.
+
+\bibitem{kopuklu2019resource}
+O.~K{\"o}p{\"u}kl{\"u}, N.~Kose, A.~Gunduz, and G.~Rigoll.
+\newblock Resource efficient 3d convolutional neural networks.
+\newblock In {\em arXiv}, 2019.
+
+\bibitem{korbar2019scsampler}
+B.~Korbar, D.~Tran, and L.~Torresani.
+\newblock Scsampler: Sampling salient clips from video for efficient action
+  recognition.
+\newblock {\em ICCV}, 2019.
+
+\bibitem{krizhevsky2014imagenet}
+A.~Krizhevsky, I.~Sutskever, and G.~Hinton.
+\newblock Imagenet classification with deep convolutional neural.
+\newblock In {\em NeurIPS}, 2014.
+
+\bibitem{krizhevsky2012imagenet}
+A.~Krizhevsky, I.~Sutskever, and G.~E. Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In {\em NIPS}, 2012.
+
+\bibitem{kuehne2014language}
+H.~Kuehne, A.~Arslan, and T.~Serre.
+\newblock The language of actions: Recovering the syntax and semantics of
+  goal-directed human activities.
+\newblock In {\em CVPR}, 2014.
+
+\bibitem{kuehne2011hmdb}
+H.~Kuehne, H.~Jhuang, E.~Garrote, T.~Poggio, and T.~Serre.
+\newblock Hmdb: a large video database for human motion recognition.
+\newblock In {\em ICCV}, 2011.
+
+\bibitem{kumar2016audio}
+A.~Kumar and B.~Raj.
+\newblock Audio event detection using weakly labeled data.
+\newblock In {\em arXiv}, 2016.
+
+\bibitem{lample2019large}
+G.~Lample, A.~Sablayrolles, M.~Ranzato, L.~Denoyer, and H.~J{\'e}gou.
+\newblock Large memory layers with product keys.
+\newblock In {\em NeurIPS}, 2019.
+
+\bibitem{le2014distributed}
+Q.~Le and T.~Mikolov.
+\newblock Distributed representations of sentences and documents.
+\newblock In {\em ICML}, 2014.
+
+\bibitem{lea2017temporal}
+C.~Lea, M.~D. Flynn, R.~Vidal, A.~Reiter, and G.~D. Hager.
+\newblock Temporal convolutional networks for action segmentation and
+  detection.
+\newblock In {\em CVPR}, 2017.
+
+\bibitem{lecun1998gradient}
+Y.~LeCun, L.~Bottou, Y.~Bengio, and P.~Haffner.
+\newblock Gradient-based learning applied to document recognition.
+\newblock In {\em IEEE}, 1998.
+
+\bibitem{li2016pruning}
+H.~Li, A.~Kadav, I.~Durdanovic, H.~Samet, and H.~P. Graf.
+\newblock Pruning filters for efficient convnets.
+\newblock In {\em arXiv}, 2016.
+
+\bibitem{li2017concurrent}
+X.~Li, Y.~Zhang, J.~Zhang, S.~Chen, I.~Marsic, R.~A. Farneth, and R.~S. Burd.
+\newblock Concurrent activity recognition with multimodal cnn-lstm structure.
+\newblock In {\em arXiv}, 2017.
+
+\bibitem{li2018videolstm}
+Z.~Li, K.~Gavrilyuk, E.~Gavves, M.~Jain, and C.~G. Snoek.
+\newblock Videolstm convolves, attends and flows for action recognition.
+\newblock In {\em CVIU}, 2018.
+
+\bibitem{louizos2017learning}
+C.~Louizos, M.~Welling, and D.~P. Kingma.
+\newblock Learning sparse neural networks through $ l\_0 $ regularization.
+\newblock In {\em arXiv}, 2017.
+
+\bibitem{lu2016zero}
+Y.-J. Lu.
+\newblock Zero-example multimedia event detection and recounting with
+  unsupervised evidence localization.
+\newblock In {\em ACM MM}, 2016.
+
+\bibitem{maaten2008visualizing}
+L.~v.~d. Maaten and G.~Hinton.
+\newblock Visualizing data using t-sne.
+\newblock In {\em JMLR}, 2008.
+
+\bibitem{marszalek2009actions}
+M.~Marszalek, I.~Laptev, and C.~Schmid.
+\newblock Actions in context.
+\newblock In {\em CVPR}, 2009.
+
+\bibitem{mazloom2014conceptlets}
+M.~Mazloom, E.~Gavves, and C.~G.~M. Snoek.
+\newblock Conceptlets: Selective semantics for classifying video events.
+\newblock In {\em IEEE TMM}, 2014.
+
+\bibitem{mazloom2015tagbook}
+M.~Mazloom, X.~Li, and C.~Snoek.
+\newblock Tagbook: A semantic video representation without supervision for
+  event detection.
+\newblock In {\em IEEE ToM}, 2015.
+
+\bibitem{mensink2014costa}
+T.~Mensink, E.~Gavves, and C.~Snoek.
+\newblock Costa: Co-occurrence statistics for zero-shot classification.
+\newblock In {\em IEEE CVPR}, 2014.
+
+\bibitem{mettes2015bag}
+P.~Mettes, J.~C. van Gemert, S.~Cappallo, T.~Mensink, and C.~G. Snoek.
+\newblock Bag-of-fragments: Selecting and encoding video fragments for event
+  detection and recounting.
+\newblock In {\em ICMR}, 2015.
+
+\bibitem{miech2017learnable}
+A.~Miech, I.~Laptev, and J.~Sivic.
+\newblock Learnable pooling with context gating for video classification.
+\newblock In {\em arXiv}, 2017.
+
+\bibitem{mikolov2013exploiting}
+T.~Mikolov, Q.~V. Le, and I.~Sutskever.
+\newblock Exploiting similarities among languages for machine translation.
+\newblock In {\em arXiv}, 2013.
+
+\bibitem{mikolov2013distributed}
+T.~Mikolov, I.~Sutskever, K.~Chen, G.~S. Corrado, and J.~Dean.
+\newblock Distributed representations of words and phrases and their
+  compositionality.
+\newblock In {\em NIPS}, 2013.
+
+\bibitem{muda2010voice}
+L.~Muda, M.~Begam, and I.~Elamvazuthi.
+\newblock Voice recognition algorithms using mel frequency cepstral coefficient
+  (mfcc) and dynamic time warping (dtw) techniques.
+\newblock In {\em arXiv}, 2010.
+
+\bibitem{oneata2013action}
+D.~Oneata, J.~Verbeek, and C.~Schmid.
+\newblock Action and event recognition with fisher vectors on a compact feature
+  set.
+\newblock In {\em ICCV}, 2013.
+
+\bibitem{over2013trecvid}
+P.~Over, G.~Awad, J.~Fiscus, G.~Sanders, and B.~Shaw.
+\newblock Trecvid 2013--an introduction to the goals, tasks, data, evaluation
+  mechanisms, and metrics.
+\newblock In {\em TRECVID Workshop}, 2013.
+
+\bibitem{over2014trecvid}
+P.~Over, J.~Fiscus, G.~Sanders, D.~Joy, M.~Michel, G.~Awad, A.~Smeaton,
+  W.~Kraaij, and G.~Qu{\'e}not.
+\newblock Trecvid 2014--an overview of the goals, tasks, data, evaluation
+  mechanisms and metrics.
+\newblock In {\em TRECVID Workshop}, 2014.
+
+\bibitem{pal1992multilayer}
+S.~K. Pal and S.~Mitra.
+\newblock Multilayer perceptron, fuzzy sets, classifiaction.
+\newblock 1992.
+
+\bibitem{parmar2019stand}
+N.~Parmar, P.~Ramachandran, A.~Vaswani, I.~Bello, A.~Levskaya, and J.~Shlens.
+\newblock Stand-alone self-attention in vision models.
+\newblock In {\em NeurIPS}, 2019.
+
+\bibitem{scikit-learn}
+F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
+  M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, J.~Vanderplas, A.~Passos,
+  D.~Cournapeau, M.~Brucher, M.~Perrot, and E.~Duchesnay.
+\newblock Scikit-learn: Machine learning in {P}ython.
+\newblock {\em Journal of Machine Learning Research}, 12:2825--2830, 2011.
+
+\bibitem{peng2016bag}
+X.~Peng, L.~Wang, X.~Wang, and Y.~Qiao.
+\newblock In {\em CVIU}, 2016.
+
+\bibitem{pini2019m}
+S.~Pini, M.~Cornia, F.~Bolelli, L.~Baraldi, and R.~Cucchiara.
+\newblock M-vad names: a dataset for video captioning with naming.
+\newblock In {\em MTA}, 2019.
+
+\bibitem{rohrbach2015dataset}
+A.~Rohrbach, M.~Rohrbach, N.~Tandon, and B.~Schiele.
+\newblock A dataset for movie description.
+\newblock In {\em CVPR}, 2015.
+
+\bibitem{rohrbach2016recognizing}
+M.~Rohrbach, A.~Rohrbach, M.~Regneri, S.~Amin, M.~Andriluka, M.~Pinkal, and
+  B.~Schiele.
+\newblock Recognizing fine-grained and composite activities using hand-centric
+  features and script data.
+\newblock In {\em IJCV}, 2016.
+
+\bibitem{sanchez2013image}
+J.~S{\'a}nchez, F.~Perronnin, T.~Mensink, and J.~Verbeek.
+\newblock Image classification with the fisher vector: Theory and practice.
+\newblock In {\em IJCV}, 2013.
+
+\bibitem{sandler2018mobilenetv2}
+M.~Sandler, A.~Howard, M.~Zhu, A.~Zhmoginov, and L.-C. Chen.
+\newblock Mobilenetv2: Inverted residuals and linear bottlenecks.
+\newblock In {\em CVPR}, 2018.
+
+\bibitem{santoro2016meta}
+A.~Santoro, S.~Bartunov, M.~Botvinick, D.~Wierstra, and T.~Lillicrap.
+\newblock Meta-learning with memory-augmented neural networks.
+\newblock In {\em ICML}, 2016.
+
+\bibitem{schindler2008action}
+K.~Schindler and L.~Van~Gool.
+\newblock Action snippets: How many frames does human action recognition
+  require?
+\newblock In {\em CVPR}, 2008.
+
+\bibitem{schuldt2004recognizing}
+C.~Schuldt, I.~Laptev, and B.~Caputo.
+\newblock Recognizing human actions: a local svm approach.
+\newblock In {\em IEEE ICPR}, 2004.
+
+\bibitem{searle1980minds}
+J.~R. Searle.
+\newblock Minds, brains, and programs.
+\newblock In {\em Behavioral and brain sciences}, 1980.
+
+\bibitem{sener2019zero}
+F.~Sener and A.~Yao.
+\newblock Zero-shot anticipation for instructional activities.
+\newblock In {\em ICCV}, 2019.
+
+\bibitem{sharma2015action}
+S.~Sharma, R.~Kiros, and R.~Salakhutdinov.
+\newblock Action recognition using visual attention.
+\newblock {\em ICLR Worshop}, 2015.
+
+\bibitem{sigurdsson2017asynchronous}
+G.~A. Sigurdsson, S.~Divvala, A.~Farhadi, and A.~Gupta.
+\newblock Asynchronous temporal fields for action recognition.
+\newblock In {\em CVPR}, 2017.
+
+\bibitem{sigurdsson2016hollywood}
+G.~A. Sigurdsson, G.~Varol, X.~Wang, A.~Farhadi, I.~Laptev, and A.~Gupta.
+\newblock Hollywood in homes: Crowdsourcing data collection for activity
+  understanding.
+\newblock In {\em ECCV}, 2016.
+
+\bibitem{simonyan2013fisher}
+K.~Simonyan, O.~M. Parkhi, A.~Vedaldi, and A.~Zisserman.
+\newblock Fisher vector faces in the wild.
+\newblock In {\em BMVC}, 2013.
+
+\bibitem{simonyan2014two}
+K.~Simonyan and A.~Zisserman.
+\newblock Two-stream convolutional networks for action recognition in videos.
+\newblock In {\em NIPS}, 2014.
+
+\bibitem{simonyan2014very}
+K.~Simonyan and A.~Zisserman.
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock In {\em arXiv}, 2014.
+
+\bibitem{soomro2012ucf101}
+K.~Soomro, A.~R. Zamir, and M.~Shah.
+\newblock Ucf101: A dataset of 101 human actions classes from videos in the
+  wild.
+\newblock In {\em CRCV-TR}, 2012.
+
+\bibitem{sutskever2014sequence}
+I.~Sutskever, O.~Vinyals, and Q.~V. Le.
+\newblock Sequence to sequence learning with neural networks.
+\newblock In {\em NIPS}, 2014.
+
+\bibitem{szegedy2017inception}
+C.~Szegedy, S.~Ioffe, V.~Vanhoucke, and A.~A. Alemi.
+\newblock Inception-v4, inception-resnet and the impact of residual connections
+  on learning.
+\newblock In {\em AAAI}, 2017.
+
+\bibitem{szegedy2015going}
+C.~Szegedy, W.~Liu, Y.~Jia, P.~Sermanet, S.~Reed, D.~Anguelov, D.~Erhan,
+  V.~Vanhoucke, and A.~Rabinovich.
+\newblock Going deeper with convolutions.
+\newblock In {\em IEEE CVPR}, 2015.
+
+\bibitem{szegedy2016rethinking}
+C.~Szegedy, V.~Vanhoucke, S.~Ioffe, J.~Shlens, and Z.~Wojna.
+\newblock Rethinking the inception architecture for computer vision.
+\newblock In {\em CVPR}, 2016.
+
+\bibitem{szelag2004individual}
+E.~Szelag, M.~Kanabus, I.~Kolodziejczyk, J.~Kowalska, and J.~Szuchnik.
+\newblock Individual differences in temporal information processing in humans.
+\newblock In {\em ANE}, 2004.
+
+\bibitem{takahashi2017aenet}
+N.~Takahashi, M.~Gygli, and L.~Van~Gool.
+\newblock Aenet: Learning deep audio features for video analysis.
+\newblock 2017.
+
+\bibitem{thomee2016yfcc100m}
+B.~Thomee, D.~A. Shamma, G.~Friedland, B.~Elizalde, K.~Ni, D.~Poland, D.~Borth,
+  and L.-J. Li.
+\newblock Yfcc100m: The new data in multimedia research.
+\newblock {\em Communications of the ACM}, 2016.
+
+\bibitem{tong2001support}
+S.~Tong and D.~Koller.
+\newblock Support vector machine active learning with applications to text
+  classification.
+\newblock 2001.
+
+\bibitem{tran2014c3d}
+D.~Tran, L.~Bourdev, R.~Fergus, L.~Torresani, and M.~Paluri.
+\newblock C3d: generic features for video analysis.
+\newblock In {\em arXiv}, 2014.
+
+\bibitem{tran2015learning}
+D.~Tran, L.~Bourdev, R.~Fergus, L.~Torresani, and M.~Paluri.
+\newblock Learning spatiotemporal features with 3d convolutional networks.
+\newblock In {\em ICCV}, 2015.
+
+\bibitem{tran2019video}
+D.~Tran, H.~Wang, L.~Torresani, and M.~Feiszli.
+\newblock Video classification with channel-separated convolutional networks.
+\newblock In {\em ICCV}, 2019.
+
+\bibitem{tran2018closer}
+D.~Tran, H.~Wang, L.~Torresani, J.~Ray, Y.~LeCun, and M.~Paluri.
+\newblock A closer look at spatiotemporal convolutions for action recognition.
+\newblock In {\em CVPR}, 2018.
+
+\bibitem{uijlings2015video}
+J.~Uijlings, I.~Duta, E.~Sangineto, and N.~Sebe.
+\newblock Video classification with densely extracted hog/hof/mbh features: an
+  evaluation of the accuracy/computational efficiency trade-off.
+\newblock In {\em IJMIR}, 2015.
+
+\bibitem{van2016wavenet}
+A.~Van Den~Oord, S.~Dieleman, H.~Zen, K.~Simonyan, O.~Vinyals, A.~Graves,
+  N.~Kalchbrenner, A.~W. Senior, and K.~Kavukcuoglu.
+\newblock Wavenet: A generative model for raw audio.
+\newblock In {\em SSW}, 2016.
+
+\bibitem{varol2017long}
+G.~Varol, I.~Laptev, and C.~Schmid.
+\newblock Long-term temporal convolutions for action recognition.
+\newblock In {\em TPAMI}, 2017.
+
+\bibitem{vaswani2017attention}
+A.~Vaswani, N.~Shazeer, N.~Parmar, J.~Uszkoreit, L.~Jones, A.~N. Gomez,
+  {\L}.~Kaiser, and I.~Polosukhin.
+\newblock Attention is all you need.
+\newblock In {\em NIPS}, 2017.
+
+\bibitem{veit2018convolutional}
+A.~Veit and S.~Belongie.
+\newblock Convolutional networks with adaptive inference graphs.
+\newblock In {\em ECCV}, 2018.
+
+\bibitem{velivckovic2017graph}
+P.~Veli{\v{c}}kovi{\'c}, G.~Cucurull, A.~Casanova, A.~Romero, P.~Lio, and
+  Y.~Bengio.
+\newblock Graph attention networks.
+\newblock In {\em ICLR}, 2018.
+
+\bibitem{vieira2012stop}
+A.~W. Vieira, E.~R. Nascimento, G.~L. Oliveira, Z.~Liu, and M.~F. Campos.
+\newblock Stop: Space-time occupancy patterns for 3d action recognition from
+  depth map sequences.
+\newblock In {\em ICPR}, 2012.
+
+\bibitem{vinyals2016matching}
+O.~Vinyals, C.~Blundell, T.~Lillicrap, D.~Wierstra, et~al.
+\newblock Matching networks for one shot learning.
+\newblock In {\em NeurIPS}, 2016.
+
+\bibitem{wang2011action}
+H.~Wang, A.~Kl{\"a}ser, C.~Schmid, and C.-L. Liu.
+\newblock Action recognition by dense trajectories.
+\newblock In {\em CVPR}, 2011.
+
+\bibitem{wang2013action}
+H.~Wang and C.~Schmid.
+\newblock Action recognition with improved trajectories.
+\newblock In {\em CVPR}, 2013.
+
+\bibitem{wang2015towards}
+L.~Wang, Y.~Xiong, Z.~Wang, and Y.~Qiao.
+\newblock Towards good practices for very deep two-stream convnets.
+\newblock In {\em arXiv}, 2015.
+
+\bibitem{wang2016temporal}
+L.~Wang, Y.~Xiong, Z.~Wang, Y.~Qiao, D.~Lin, X.~Tang, and L.~Van~Gool.
+\newblock Temporal segment networks: Towards good practices for deep action
+  recognition.
+\newblock In {\em ECCV}, 2016.
+
+\bibitem{wang2018temporal}
+L.~Wang, Y.~Xiong, Z.~Wang, Y.~Qiao, D.~Lin, X.~Tang, and L.~Van~Gool.
+\newblock Temporal segment networks for action recognition in videos.
+\newblock In {\em TPAMI}, 2018.
+
+\bibitem{wang2018non}
+X.~Wang, R.~Girshick, A.~Gupta, and K.~He.
+\newblock Non-local neural networks.
+\newblock In {\em CVPR}, 2018.
+
+\bibitem{wang2017non}
+X.~Wang, R.~Girshick, A.~Gupta, and K.~He.
+\newblock Non-local neural networks.
+\newblock In {\em CVPR}, 2018.
+
+\bibitem{wang2018videos}
+X.~Wang and A.~Gupta.
+\newblock Videos as space-time region graphs.
+\newblock In {\em ECCV}, 2018.
+
+\bibitem{wu2019long}
+C.-Y. Wu, C.~Feichtenhofer, H.~Fan, K.~He, P.~Krahenbuhl, and R.~Girshick.
+\newblock Long-term feature banks for detailed video understanding.
+\newblock In {\em CVPR}, 2019.
+
+\bibitem{wu2014zero}
+S.~Wu, S.~Bondugula, F.~Luisier, X.~Zhuang, and P.~Natarajan.
+\newblock Zero-shot event detection using multi-modal fusion of weakly
+  supervised concepts.
+\newblock In {\em CVPR}, 2014.
+
+\bibitem{xie2017aggregated}
+S.~Xie, R.~Girshick, P.~Doll{\'a}r, Z.~Tu, and K.~He.
+\newblock Aggregated residual transformations for deep neural networks.
+\newblock In {\em CVPR}, 2017.
+
+\bibitem{xie2017rethinking}
+S.~Xie, C.~Sun, J.~Huang, Z.~Tu, and K.~Murphy.
+\newblock Rethinking spatiotemporal feature learning for video understanding.
+\newblock In {\em ECCV}, 2018.
+
+\bibitem{xu2015show}
+K.~Xu, J.~Ba, R.~Kiros, K.~Cho, A.~Courville, R.~Salakhudinov, R.~Zemel, and
+  Y.~Bengio.
+\newblock Show, attend and tell: Neural image caption generation with visual
+  attention.
+\newblock In {\em ICML}, 2015.
+
+\bibitem{ye2015eventnet}
+G.~Ye, Y.~Li, H.~Xu, D.~Liu, and S.-F. Chang.
+\newblock Eventnet: A large scale structured concept library for complex event
+  detection in video.
+\newblock In {\em ACM MM}, 2015.
+
+\bibitem{yeung2015every}
+S.~Yeung, O.~Russakovsky, N.~Jin, M.~Andriluka, G.~Mori, and L.~Fei-Fei.
+\newblock Every moment counts: Dense detailed labeling of actions in complex
+  videos.
+\newblock {\em International Journal of Computer Vision}, 2017.
+
+\bibitem{yeung2018every}
+S.~Yeung, O.~Russakovsky, N.~Jin, M.~Andriluka, G.~Mori, and L.~Fei-Fei.
+\newblock Every moment counts: Dense detailed labeling of actions in complex
+  videos.
+\newblock In {\em IJCV}, 2018.
+
+\bibitem{yeung2016end}
+S.~Yeung, O.~Russakovsky, G.~Mori, and L.~Fei-Fei.
+\newblock End-to-end learning of action detection from frame glimpses in
+  videos.
+\newblock In {\em CVPR}, 2016.
+
+\bibitem{zhang2017shufflenet}
+X.~Zhang, X.~Zhou, M.~Lin, and J.~Sun.
+\newblock Shufflenet: An extremely efficient convolutional neural network for
+  mobile devices.
+\newblock In {\em CVPR}, 2018.
+
+\bibitem{zhang2018shufflenet}
+X.~Zhang, X.~Zhou, M.~Lin, and J.~Sun.
+\newblock Shufflenet: An extremely efficient convolutional neural network for
+  mobile devices.
+\newblock In {\em CVPR}, 2018.
+
+\bibitem{zhou2017temporal}
+B.~Zhou, A.~Andonian, and A.~Torralba.
+\newblock Temporal relational reasoning in videos.
+\newblock In {\em ECCV}, 2018.
+
+\bibitem{zhou2016places}
+B.~Zhou, A.~Khosla, A.~Lapedriza, A.~Torralba, and A.~Oliva.
+\newblock Places: An image database for deep scene understanding.
+\newblock In {\em arXiv}, 2016.
+
+\bibitem{Zhou2017YouCookIID}
+L.~Zhou and J.~J. Corso.
+\newblock Youcookii dataset.
+\newblock 2017.
+
+\bibitem{zhou2018towards}
+L.~Zhou, C.~Xu, and J.~J. Corso.
+\newblock Towards automatic learning of procedures from web instructional
+  videos.
+\newblock In {\em AAAI}, 2018.
+
+\bibitem{zoph2016neural}
+B.~Zoph and Q.~V. Le.
+\newblock Neural architecture search with reinforcement learning.
+\newblock In {\em arXiv}, 2016.
+
+\bibitem{zoph2018learning}
+B.~Zoph, V.~Vasudevan, J.~Shlens, and Q.~V. Le.
+\newblock Learning transferable architectures for scalable image recognition.
+\newblock In {\em CVPR}, 2018.
+
+\end{thebibliography}

@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+The style file: abbrv.bst
+Database file #1: thesis.bib
+Warning--to sort, need author or key in wikihow
+Warning--to sort, need author or key in wikipedia
+Warning--to sort, need author or key in timeceptioncode
+Warning--to sort, need author or key in charades2017algorithms
+Warning--empty booktitle in jiangfcvid
+Warning--empty booktitle in pal1992multilayer
+Warning--empty title in peng2016bag
+Warning--empty booktitle in takahashi2017aenet
+Warning--empty journal in tong2001support
+Warning--empty booktitle in Zhou2017YouCookIID
+You've used 178 entries,
+            2118 wiz_defined-function locations,
+            1085 strings with 29883 characters,
+and the built_in function-call counts, 60121 in all, are:
+= -- 4868
+> -- 4266
+< -- 0
++ -- 1682
+- -- 1498
+* -- 4029
+:= -- 10316
+add.period$ -- 529
+call.type$ -- 178
+change.case$ -- 1275
+chr.to.int$ -- 0
+cite$ -- 188
+duplicate$ -- 2411
+empty$ -- 4857
+format.name$ -- 1498
+if$ -- 12321
+int.to.chr$ -- 0
+int.to.str$ -- 178
+missing$ -- 172
+newline$ -- 888
+num.names$ -- 348
+pop$ -- 1964
+preamble$ -- 1
+purify$ -- 1098
+quote$ -- 0
+skip$ -- 1272
+stack$ -- 0
+substring$ -- 927
+swap$ -- 336
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 712
+warning$ -- 10
+while$ -- 350
+width$ -- 181
+write$ -- 1768
+(There were 10 warnings)
